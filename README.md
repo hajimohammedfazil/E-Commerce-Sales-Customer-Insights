@@ -33,3 +33,9 @@ This project analyzes e-commerce sales and customer data to identify sales trend
 
 ## Conclusion
 The project demonstrates an end-to-end data analytics workflow, from data cleaning and SQL-based analysis to interactive dashboard development, supporting data-driven business insights.
+
+
+## Power BI Dashboard
+
+![E-Commerce Sales Dashboard](dashboard.png)
+
